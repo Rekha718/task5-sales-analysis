@@ -11,7 +11,7 @@ Analyze sales data using **Python** and **Pandas** to generate basic insights an
 
 ## 📂 Files
 - `sales.csv` → Dataset  
-- `task5_analysis.ipynb` → Notebook with analysis & charts  
+- `sales_analysis.ipynb` → Notebook with analysis & charts  
 
 ## 🚀 Steps
 1. Load CSV using Pandas  
